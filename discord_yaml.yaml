@@ -1,0 +1,8 @@
+site_name: Discord for VT Clubs
+site_description: "A simple site that teaches how to use discord for VT clubs"
+
+theme:
+    name: "mkdocs"
+
+nav:
+    - Home: index.md
